@@ -2,9 +2,6 @@
 
 This project is a simple, responsive NFT card component built using HTML and CSS. It showcases an NFT with details such as the title, description, price, remaining time, and creator information. The design is minimalistic and aims to create a visually appealing and interactive experience.
 
-## Live Demo
-
-[View Project Live](https://nft-card-project-developerdj.netlify.app/)
 
 ## Features
 
