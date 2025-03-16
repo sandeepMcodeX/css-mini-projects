@@ -105,8 +105,8 @@ margin-bottom: 1em;
   text-decoration: none;
   color: #1e1c1d;
 }
-/* media */
-/* top section */
+
+/* media  querie*/
 @media(max-width:500px){
 .top-section{
   flex-direction: column;
