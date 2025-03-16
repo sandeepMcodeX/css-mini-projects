@@ -24,9 +24,7 @@ p {
   max-width: 600px;
   background: linear-gradient(150deg, #556270, #ff6b6b);
   border-radius: 10px;
-  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-
-  
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px; 
 }
 form {
   display: flex;
