@@ -1,0 +1,155 @@
+*
+{
+    /* margin: 0; */
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+   
+    
+    background-color: #F3E6D8;
+
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+.container
+{
+    background-color: #ffffff;
+    width: 100%;
+    max-width: 743px;
+    
+    padding: 30px;
+    border-radius: 20px;
+  
+
+}
+.container-img
+{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 12px;
+}
+.section-1{
+    margin-top: 1em;
+}
+.section-1-heading
+{
+    font-family: 'Young Serif';
+    /* font-family: 'Outfit'; */
+    color: #854632;
+    font-size: 40px;
+    font-weight: 500;
+    
+}
+.section-1-para
+{
+    font-family: 'Outfit';
+    font-weight: 100;
+    line-height: 24px;
+       margin-top: 1em;
+       font-size: 17px;
+       color: gray;
+}
+.section-1-heading-2{
+    margin: 40px 0px 0px 20px;
+    color:#7B284F ;
+    font-family: 'Outfit';
+    font-size: 400;
+   
+    
+}
+.section-list-sty
+{
+
+     margin: 30px 0px 0px 45px;
+     font-family: 'Outfit';
+     
+     line-height: 30px;
+     color: #7B284F;
+      
+  
+}
+.section-list-sty-main-head
+{
+    color: #777575;
+    margin-left: 12px;
+}
+.section-list-sty-head
+{
+    font-weight: 600;
+    color: #2b2828;
+
+    
+}
+
+
+.section-1-heading3
+{
+
+ font-family: 'Young Serif';
+  color: #7B284F;
+  font-weight: 500;
+}
+.section-1-second-list-sty
+{
+    font-family: 'Outfit';
+       margin: 30px 0px 0px 20px;
+     line-height: 30px;
+     color: #7B284F;
+}
+.hr-sty
+{
+    margin-top: 2em;
+     color: #666363;
+}
+.section-2 
+{
+    margin-top: 2em;
+}
+.section-2-heading{
+     font-family: 'Young Serif';
+  color: #7B284F;
+  font-weight: 500;
+}
+.section-2-list-sty
+{
+    font-family: 'Outfit';
+       margin: 30px 0px 0px 20px;
+    
+     color: #7B284F;
+
+}
+.section-2-list-main-head
+{
+    margin-left: 19px;
+    font-size: 16px;
+    line-height: 25px;
+    color: #464242;
+    font-weight: 100;
+}
+.section-2-para-sty
+{
+    font-size: 17px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 24px;
+}
+
+th, td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #DDD;
+  font-size: 17px;
+}
+.table-sty
+{
+   font-family: 'Outfit';
+   font-weight: 600;
+   color: #7B284F;
+
+}
